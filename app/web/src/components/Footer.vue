@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Marcelo Lv Cabral
+        (C) 2018 by Marcelo Lv Cabral
       </div>
       <div class="col-lg-6">
       </div>
